@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekdk0304
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Python and Java
+- 🌱 I’m currently learning Java Full Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abhishekkd341@gmail.com
 
